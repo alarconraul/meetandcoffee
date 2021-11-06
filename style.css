@@ -1,0 +1,116 @@
+body{
+    text-align: center;
+    color: #000f08;
+    margin: 0;
+    border: 0;
+    padding: 0;
+    font-family: 'Open Sans', sans-serif;
+}
+.navigation_bar{
+    text-align: left;
+    padding: 0.25rem;
+    width: 100vw;
+}
+.navigation_bar ul{
+    list-style-type: none;
+}
+.navigation_bar li{
+    display: inline-block;
+    margin: 0 1em;
+    vertical-align: middle;
+
+}
+h1{
+    font-weight: 800;
+}
+h2{
+    font-weight: 700;
+}
+h3{
+    font-weight: 400;
+}
+.coffee-talk{
+    text-align: right;
+    background-image: url(assets/img/cafe.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    color: #ffffff;
+    text-shadow: 0.125em 0.25em 0.125em #707070;
+    padding: 3.125rem 3.125rem;
+}
+
+
+.dark{
+    background-color: #000f08;
+    color: #ffffff;
+}
+.dark a{
+    color: #ffffff;
+    text-decoration: none;
+}
+.icon{
+    width: 2rem;
+}
+.icon svg{
+    fill: #ffffff;
+}
+
+.sweet-brown_bg{
+    text-align: left;
+    background-color: #a4452c;
+    color: #ffffff;
+    padding: 50px;
+    white-space: nowrap;
+}
+.next-event-text, .to_center, .event{
+    display: inline-block;
+}
+.to_center{
+    width: 75%;
+    margin: 0 auto;
+}
+.carolina-herrera{
+    border-radius: 1em;
+    width: 27%;
+    vertical-align: middle;
+}
+.next-event-text{
+    width: 72.5%;
+    vertical-align: middle;
+    margin-left: 2.5%;
+    white-space: normal;
+}
+#previous-events img{
+    height: 12em;
+    border-radius: 1em;
+    margin: 2em ;
+
+}
+i{
+    font-size: 2em;
+}
+.wework{
+    height: 17em;
+border-radius: 1em;
+}
+footer{
+    padding: 50px;
+}
+footer i{
+    margin: 0 0.25em 0.5em 0.25em;
+}
+section, footer{
+    margin-top: 75px;
+}
+
+.simposio_image{
+    height: 18em;
+}
+
+.simposyum-text{
+    padding-top: 1em;
+padding-right: 4em;
+padding-bottom: 1em;
+padding-left: 4em;
+text-align: justify;
+}
