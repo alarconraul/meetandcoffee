@@ -1,2 +1,1 @@
-Github Page: 
-https://raul-alarcon.github.io/meetandcoffee/
+https://alarconraul.github.io/meetandcoffee/
